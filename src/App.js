@@ -119,7 +119,7 @@ function App() {
         <div style={modalStyle} className={classes.paper}>
         <form className = "app__signUp">
         <center>
-          <img className="app__headerimage" alt="abc" src=""></img>
+          <img className="app__headerimage" alt="abc" src="https://img.icons8.com/bubbles/2x/stack-of-photos.png"></img>
          </center>
           <Input
           type='text'
@@ -151,7 +151,7 @@ function App() {
         <div style={modalStyle} className={classes.paper}>
           <form className = "app__signUp">
         <center>
-          <img className="app__headerimage" alt="abc" src=""></img>
+          <img className="app__headerimage" alt="abc" src="https://img.icons8.com/bubbles/2x/stack-of-photos.png"></img>
          </center>
           <Input
           type='email'
