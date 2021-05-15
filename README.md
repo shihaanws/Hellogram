@@ -21,13 +21,13 @@ Hellogram is a fully responsive web app built using **React & Firebase**.
 ### Clone repository
 
 ```
-$ git clone https://github.com/theneoterik/All-Mart.git
+$ git clone https://github.com/theneoterik/Hellogram.git
 ```
 
 ### Navigate to directory
 
 ```
-$ cd allMart
+$ cd hellogram
 ```
 
 ### Install dependencies
