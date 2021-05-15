@@ -6,7 +6,7 @@
 
 Hellogram is a fully responsive web app built using **React & Firebase**.
 
-[Live App](http://hellogram.vercel.app)
+[Check the Live App 👆](http://hellogram.vercel.app)
 
 
 ## Tech Stack
